@@ -1,3 +1,4 @@
 Dia 1 "Explorando Git"
 Dia 2 "Aprendiendo sobre commit"
 Dia 3 "Descrubiendo nuevas ramas"
+Dia 4 "Retrocediendo en el tiempo con el checkout
